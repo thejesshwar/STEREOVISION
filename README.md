@@ -1,4 +1,4 @@
-#SAVELUNA
+# SAVE LUNA
 Luna is a robot with wheels and two cameras, but
 she does not know how to use them to navigate. This project
 focuses on developing a depth estimation method using stereo
